@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# FLASH_TYPE APP
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Want to see how fast you can type? how correct you can type? how quick you can type?.
+Then this app will be helpful for you.
 
-## Available Scripts
+# START THE TEST
 
-In the project directory, you can run:
+https://divyansh0811.github.io/Flash-Type/
 
-### `npm start`
+# APP DEMO
+![image](https://user-images.githubusercontent.com/69900562/121112794-8fb53380-c82e-11eb-818f-b9955c60533a.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+If the input is incorrect, it will change the color to red to let you know that you have made a mistake to help you rectify it else it will be green
+![image](https://user-images.githubusercontent.com/69900562/121112814-9a6fc880-c82e-11eb-8a14-39527caaeea8.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+And last but not the least, RE-TRY and get better and better by practicing again and again, Tell your friends about your speed and challenge the. Let's see who wins the race of typing like flash
 
-### `npm test`
+![image](https://user-images.githubusercontent.com/69900562/121112979-e28eeb00-c82e-11eb-8925-7f0604e7ba1b.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# RUN COMMANDS
+1. Slide into flashtype folder and just type "npm start" to run this app locally on your system and then browse onto localhost:3000.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
